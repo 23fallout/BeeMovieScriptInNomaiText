@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "BeeMovieScriptInNomaiText.dll",
+  "author": "23fallout",
+  "name": "BeeMovieScriptInNomaiText",
+  "uniqueName": "23fallout.BeeMovieScriptInNomaiText",
+  "version": "0.1.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": []
+}
